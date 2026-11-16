@@ -1,0 +1,39 @@
+# Python virtual environment
+Scripts/
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment executables/files
+activate
+activate.bat
+activate.fish
+deactivate.bat
+python.exe
+pythonw.exe
+pip.exe
+pip3.exe
+pip3.14.exe
+f2py.exe
+normalizer.exe
+nltk.exe
+jsonschema.exe
+numpy-config.exe
+streamlit.exe
+tqdm.exe
+uvicorn.exe
+watchmedo.exe
+websockets.exe
+plotly_get_chrome.exe
+
+# Generated files
+results.csv
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+Activate.ps1
+*.exe
